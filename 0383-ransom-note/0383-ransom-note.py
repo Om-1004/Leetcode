@@ -1,31 +1,15 @@
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
+        hash_map = dict()
+        max_len = max(len(ransomNote), len(magazine))
 
-       
-   
-        obj = {}
-        obj2 = {}
-
-        for i in range(len(ransomNote)):
-            if ransomNote[i] not in obj:
-                obj[ransomNote[i]] = 0
-            else:
-                obj[ransomNote[i]] += 1
+        for i in range(max_len):
+            if i < len(ransomNote):
+                hash_map[ransomNote[i]] = hash_map.get(ransomNote[i], 0) - 1
             
-        for j in range(len(magazine)):
-            if magazine[j] not in obj2:
-                obj2[magazine[j]] = 0
-            else:
-                obj2[magazine[j]] += 1
+            
+            if i < len(magazine):
+                hash_map[magazine[i]] = hash_map.get(magazine[i], 0) + 1
 
         
-        for x in obj:
-            if x in obj and x in obj2:
-                if obj.get(x) > obj2.get(x):
-                    return False
-            else:
-                return False
-
-        return True
-            
-        
+        return len([val for val in hash_map.values() if val < 0]) == 0
