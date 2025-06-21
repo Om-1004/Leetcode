@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Om-1004/Leetcode/tree/master/0015-3sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Om-1004/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0682-baseball-game](https://github.com/Om-1004/Leetcode/tree/master/0682-baseball-game) |
 | [1019-squares-of-a-sorted-array](https://github.com/Om-1004/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -35,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Om-1004/Leetcode/tree/master/0015-3sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/Om-1004/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Om-1004/Leetcode/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Om-1004/Leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
