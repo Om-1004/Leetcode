@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Om-1004/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Om-1004/Leetcode/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Om-1004/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1297-maximum-number-of-balloons](https://github.com/Om-1004/Leetcode/tree/master/1297-maximum-number-of-balloons) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Om-1004/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Om-1004/Leetcode/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/Om-1004/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Om-1004/Leetcode/tree/master/0383-ransom-note) |
 | [1297-maximum-number-of-balloons](https://github.com/Om-1004/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 ## Counting
