@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Om-1004/Leetcode/tree/master/0015-3sum) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Om-1004/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/Om-1004/Leetcode/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Om-1004/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0682-baseball-game](https://github.com/Om-1004/Leetcode/tree/master/0682-baseball-game) |
 | [1019-squares-of-a-sorted-array](https://github.com/Om-1004/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Om-1004/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Om-1004/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Om-1004/Leetcode/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Om-1004/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Om-1004/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Om-1004/Leetcode/tree/master/0383-ransom-note) |
 | [1297-maximum-number-of-balloons](https://github.com/Om-1004/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 ## Two Pointers
@@ -41,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Om-1004/Leetcode/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/Om-1004/Leetcode/tree/master/0169-majority-element) |
 | [1019-squares-of-a-sorted-array](https://github.com/Om-1004/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Stack
 |  |
@@ -87,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Om-1004/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Om-1004/Leetcode/tree/master/0226-invert-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Om-1004/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
