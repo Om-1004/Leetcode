@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Om-1004/Leetcode/tree/master/0015-3sum) |
+| [0074-search-a-2d-matrix](https://github.com/Om-1004/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Om-1004/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Om-1004/Leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Om-1004/Leetcode/tree/master/0283-move-zeroes) |
@@ -112,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/Om-1004/Leetcode/tree/master/0940-fruit-into-baskets) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Om-1004/Leetcode/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Om-1004/Leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
