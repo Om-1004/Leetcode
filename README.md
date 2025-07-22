@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Om-1004/Leetcode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Om-1004/Leetcode/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/Om-1004/Leetcode/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/Om-1004/Leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Om-1004/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Om-1004/Leetcode/tree/master/0383-ransom-note) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Om-1004/Leetcode/tree/master/0043-multiply-strings) |
 | [0682-baseball-game](https://github.com/Om-1004/Leetcode/tree/master/0682-baseball-game) |
 | [2058-concatenation-of-array](https://github.com/Om-1004/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Math
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Om-1004/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Om-1004/Leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Om-1004/Leetcode/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/Om-1004/Leetcode/tree/master/0043-multiply-strings) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Om-1004/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Linked List
 |  |
