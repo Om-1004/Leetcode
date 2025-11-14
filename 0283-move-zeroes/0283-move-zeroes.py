@@ -14,11 +14,9 @@ class Solution:
                     r += 1
                 if r < len(nums):
                     nums[l], nums[r] = nums[r], nums[l]
-                l += 1
-                r += 1
-            else:
-                l += 1
-                r += 1
+            l += 1
+            r += 1
+            
 
 """
 
