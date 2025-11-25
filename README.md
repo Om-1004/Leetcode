@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Om-1004/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1019-squares-of-a-sorted-array](https://github.com/Om-1004/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2058-concatenation-of-array](https://github.com/Om-1004/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2239-find-closest-number-to-zero](https://github.com/Om-1004/Leetcode/tree/master/2239-find-closest-number-to-zero) |
 ## Hash Table
 |  |
 | ------- |
