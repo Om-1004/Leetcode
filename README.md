@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Om-1004/Leetcode/tree/master/0704-binary-search) |
 | [0940-fruit-into-baskets](https://github.com/Om-1004/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1019-squares-of-a-sorted-array](https://github.com/Om-1004/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1929-concatenation-of-array](https://github.com/Om-1004/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/Om-1004/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2239-find-closest-number-to-zero](https://github.com/Om-1004/Leetcode/tree/master/2239-find-closest-number-to-zero) |
 ## Hash Table
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Om-1004/Leetcode/tree/master/0043-multiply-strings) |
 | [0682-baseball-game](https://github.com/Om-1004/Leetcode/tree/master/0682-baseball-game) |
+| [1929-concatenation-of-array](https://github.com/Om-1004/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/Om-1004/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Math
 |  |
